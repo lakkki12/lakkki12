@@ -153,17 +153,18 @@ Research on an explainable deep-learning architecture for EEG-based mild cogniti
 
 [Read paper ↗](https://doi.org/10.1186/s40708-026-00302-4) · [PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/42108320/)
 
-<details>
-<summary><b>Innovation and published patent applications</b></summary>
+### Published Indian patent applications
 
-<br/>
+Both applications list **Vellore Institute of Technology, Chennai** as the applicant. These are **published applications, not granted patents**.
 
-- **System for Orchestrated Control of Physical Infrastructure** — Indian patent application `202641106171` ([technical overview](patents/physical-infrastructure-control.md))
-- **System and Method for Autonomous Aquatic Environmental Clean-Up and Waste Management** — Indian patent application `202541076812` ([technical overview](patents/aquatic-cleanup.md))
+| Innovation | Application number | Filed | Published | Current status |
+| --- | --- | --- | --- | --- |
+| **[System for Orchestrated Control of Physical Infrastructure](patents/physical-infrastructure-control.md)** | `202641106171` | 03 Sep 2026 | 11 Sep 2026 | Under Examination |
+| **[System and Method for Autonomous Aquatic Environmental Clean-Up and Waste Management](patents/aquatic-cleanup.md)** | `202541076812` | 12 Aug 2025 | 05 Sep 2025 | Awaiting Examination |
 
-These are **published patent applications**, not granted patents. The linked overviews describe proposed architectures.
+*Both are ordinary applications. Examination requests were filed on 11 Sep 2026 and 12 Aug 2025, respectively. Statuses reflect the supplied application records and may change.*
 
-</details>
+
 
 ---
 
