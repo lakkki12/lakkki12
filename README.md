@@ -1,26 +1,37 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Lakshya Agarwal — Software Development, Systems Engineering and AI Research" width="100%" />
+<img src="assets/profile-banner.svg" alt="Lakshya Agarwal — software, systems, electronics and AI" width="100%" />
 
-### Hi, I'm Lakshya Agarwal 👋
+### Hey, I'm Lakshya 👋
 
-**Software Development | C++ & CUDA | Full-Stack Engineering | Applied AI Research**
+**Systems & GPU Computing · Full-Stack Development · Applied AI Research**
 
-I build and evaluate software systems—from **GPU-accelerated algorithms** and **interactive applications** to **retrieval-grounded AI**. I enjoy understanding the architecture, trade-offs, and correctness of the systems I work on.
+*Curious about how code, electronics, and physical machines come together.*
 
 [![Projects](https://img.shields.io/badge/Explore_Projects-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakkki12?tab=repositories)
-[![Publication](https://img.shields.io/badge/Research_Publication-0F766E?style=for-the-badge&logo=googlescholar&logoColor=white)](https://doi.org/10.1186/s40708-026-00302-4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshyaagarwal12/)
+[![Email](https://img.shields.io/badge/Say_Hello-0F766E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshyaagarwalbly16@gmail.com)
 
 </div>
 
 ---
 
-### Engineering at a glance
+### A little about me
 
-- **Software development:** C++, Python, JavaScript, React, REST APIs, and Git
-- **Systems and performance:** CUDA, parallel algorithms, memory movement, and benchmarking
-- **AI/ML:** RAG, hybrid retrieval, LangGraph, LLM workflows, and model evaluation
-- **Research mindset:** reproducible experiments, ablation studies, explainability, and clear technical reporting
+I'm pursuing a **B.Tech in Electronics and Computer Engineering at VIT Chennai**, with a **9.20 CGPA**.
+
+Why this degree? There's a Hindi word, *chull*, that probably explains it better than a formal answer: I've always wanted to know how things work. How does code instruct an electronic circuit? How does that circuit control a motor or a mechanical system? How do all those layers come together to make a machine do something useful?
+
+I don't have all the answers yet. Every time I learn something, I seem to find another question worth asking. That's part of the fun. I don't think learning ends with a degree.
+
+I enjoy building software, testing ideas, and understanding not just **how** something works, but **why** it works that way.
+
+### What I'm exploring
+
+- **Systems & performance:** C++, CUDA, parallel algorithms, memory movement, and benchmarking
+- **Software engineering:** Python, JavaScript, React, REST APIs, and backend design
+- **AI & research:** RAG, multi-agent systems, retrieval, evaluation, and explainability
+- **Cloud & deployment:** AWS and taking applications beyond the local machine
 
 ### Featured projects
 
@@ -107,6 +118,14 @@ Developed a React proof-of-concept for market charts, simulated orders, portfoli
 
 </div>
 
+### How I work with AI
+
+I use AI as a development tool, and I'm open about it.
+
+Sometimes it's a brainstorming partner; sometimes it handles boilerplate or repetitive implementation work. When I'm busy, I may also describe the architecture and requirements in detail and let AI generate a larger portion of the implementation. I then review what it produced, question its decisions, and fix or improve what needs attention.
+
+I don't think engineering is measured by how many lines you type yourself. Understanding the system, being able to explain the trade-offs, and checking that the code actually works matter much more. AI can move things along quickly, but it can also be confidently wrong—so generated code still needs judgment and verification.
+
 ### Research and publications
 
 **[A deep hybrid CNN-BiLSTM-BiGRU architecture with explainability for mild cognitive impairment detection using EEG](https://doi.org/10.1186/s40708-026-00302-4)**
@@ -132,14 +151,22 @@ These are **published patent applications**, not granted patents. The linked ove
 
 ---
 
+### Beyond the code ⚽ 🎮
+
+Football is my way of staying active and taking a break from screens. When I want to escape into another world, I play games. I've finished **GTA V**, **Dishonored**, **Shadow of the Tomb Raider**, and **Hogwarts Legacy**.
+
+Also, I don't drink coffee, tea, or energy drinks. Apparently, I missed that part of the developer onboarding process. Somehow, the code still runs.
+
+---
+
 <div align="center">
 
-### Connect and collaborate
+### Let's connect
 
-Open to conversations about **software engineering, backend/systems development, applied AI, and research**.
+Happy to talk about software engineering, GPU computing, AI, electronics, or an interesting technical problem.
 
-[**Browse repositories →**](https://github.com/lakkki12?tab=repositories)
+[**Email**](mailto:lakshyaagarwalbly16@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/lakshyaagarwal12/) · [**Repositories**](https://github.com/lakkki12?tab=repositories)
 
-<sub>Interested in how things work, how to measure them, and how to improve them.</sub>
+<sub>Still curious. Still learning. Still figuring things out.</sub>
 
 </div>
