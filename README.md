@@ -29,7 +29,6 @@ I build software systems and explore how AI can be made more reliable, explainab
 | **[RazorAI](https://github.com/lakkki12/RazorAI)** | Financial reconciliation architecture combining deterministic matching with constrained AI-assisted extraction. | Python, FastAPI, SQLite, Docker |
 | **[CUDA Huffman Compression](https://github.com/lakkki12/huffman-cpu-vs-gpu)** | CPU/GPU implementations of canonical Huffman coding and performance benchmarking. | C++, CUDA, parallel computing |
 | **[Stock Trading Simulator](https://github.com/lakkki12/STOCK_TRADER)** | A React-based trading simulator with charting, simulated trades and historical backtesting. | React, JavaScript, Alpha Vantage API |
-| **[Unmessify](https://github.com/lakkki12/unmessify)** | A progressive web app with structured campus information, multilingual data and automated CSV-to-JSON workflows. | JavaScript, Python, PWA, GitHub Actions |
 
 > Repository links are included for technical exploration. Project-specific results and benchmarks should be interpreted alongside the methodology documented in each repository.
 
