@@ -188,7 +188,6 @@ Application `202641106171` · Ordinary application · Filed **03 Sep 2026** · P
 Application `202541076812` · Ordinary application · Filed **12 Aug 2025** · Published **05 Sep 2025** · **Awaiting Examination**  
 [Read the technical overview](patents/aquatic-cleanup.md)
 
-*Examination requests: 11 Sep 2026 (infrastructure) and 12 Aug 2025 (aquatic). The linked overviews describe disclosed concepts, not verified deployed systems.*
 
 
 ---
