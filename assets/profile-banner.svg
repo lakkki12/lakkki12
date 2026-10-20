@@ -1,26 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Lakshya Agarwal — Software Developer and AI Researcher</title>
-  <desc id="desc">Navy gradient banner with subtle circuit motifs and typography.</desc>
+  <title id="title">Lakshya Agarwal — Midnight Minimal GitHub Banner</title>
+  <desc id="desc">Minimal midnight navy banner featuring Lakshya Agarwal, software engineering and applied AI research, with a delicate cyan grid and technical motif.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1225"/><stop offset=".55" stop-color="#10223c"/><stop offset="1" stop-color="#0d3142"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#69d5e8"/><stop offset="1" stop-color="#9b95ff"/></linearGradient>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#a6dbf4" stroke-opacity=".07"/></pattern>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080f1e"/>
+      <stop offset="0.62" stop-color="#101d32"/>
+      <stop offset="1" stop-color="#0b2233"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#54e3de"/>
+      <stop offset="1" stop-color="#5f90ff"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#9dc8dc" stroke-width="0.7" opacity="0.10"/>
+    </pattern>
+    <clipPath id="rounded"><rect width="1200" height="300" rx="16"/></clipPath>
   </defs>
-  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
-  <path d="M0 252H700" stroke="url(#accent)" stroke-width="2" opacity=".65"/>
-  <path d="M854 35H1060L1110 85V220H1014L964 270H806" fill="none" stroke="#6bd5e7" stroke-width="2" opacity=".22"/>
-  <path d="M924 68H1050L1080 98V183H1017" fill="none" stroke="#9b95ff" stroke-width="2" opacity=".4"/>
-  <circle cx="854" cy="35" r="6" fill="#71d6e4"/><circle cx="1110" cy="220" r="6" fill="#9b95ff"/><circle cx="806" cy="270" r="6" fill="#71d6e4"/>
-  <rect x="65" y="50" width="206" height="30" rx="15" fill="#69d5e8" fill-opacity=".12" stroke="#69d5e8" stroke-opacity=".35"/>
-  <text x="83" y="70" font-family="Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="1.6" fill="#91e1ea">BUILD · RESEARCH · ITERATE</text>
-  <text x="64" y="146" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700" fill="#f6f9ff">Lakshya Agarwal</text>
-  <rect x="66" y="169" width="84" height="4" rx="2" fill="url(#accent)"/>
-  <text x="66" y="207" font-family="Segoe UI, Arial, sans-serif" font-size="23" fill="#d4e3f2">Software Development  •  AI / ML  •  Applied Research</text>
-  <text x="66" y="249" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#a7c5d5">Engineering systems with clarity, reliability and purpose.</text>
-  <g transform="translate(910,95)" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M30 13L0 48L30 83" stroke="#69d5e8" stroke-width="8"/>
-    <path d="M120 13L150 48L120 83" stroke="#9b95ff" stroke-width="8"/>
-    <path d="M92 4L61 92" stroke="#e5efff" stroke-opacity=".8" stroke-width="7"/>
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="300" fill="url(#background)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <path d="M0 299H1200" stroke="#54e3de" stroke-opacity=".22"/>
+    <path d="M870 -50L1210 290M960 -50L1300 290M1050 -50L1390 290" stroke="#6bdbe5" stroke-width="1" opacity=".12"/>
+    <circle cx="1016" cy="144" r="116" stroke="#66d9e7" stroke-opacity=".18" fill="none"/>
+    <circle cx="1016" cy="144" r="80" stroke="#66d9e7" stroke-opacity=".12" fill="none"/>
+    <circle cx="1016" cy="144" r="44" stroke="#66d9e7" stroke-opacity=".10" fill="none"/>
+    <path d="M960 133L944 145L960 157M1072 133L1088 145L1072 157M1032 117L1000 174" stroke="url(#line)" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity=".82"/>
+    <path d="M106 69H142" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+    <text x="155" y="74" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3.2" fill="#75d8df">SOFTWARE ENGINEERING  /  RESEARCH</text>
+    <text x="102" y="158" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="60" font-weight="700" letter-spacing="-1.8" fill="#F5F8FC">Lakshya Agarwal</text>
+    <path d="M104 180H557" stroke="#83abc2" stroke-width="1" stroke-opacity=".34"/>
+    <text x="103" y="215" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="400" fill="#CBD8E8">C++ &amp; CUDA  <tspan fill="#4FBBC8">·</tspan>  Full-Stack Development  <tspan fill="#4FBBC8">·</tspan>  Applied AI</text>
+    <text x="104" y="259" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="0.55" fill="#88A2BC">BUILD WITH PURPOSE. MEASURE WITH RIGOR.</text>
+    <circle cx="1148" cy="40" r="3" fill="#65E4D8" opacity=".7"/>
+    <path d="M1134 40H1096M1148 54V83" stroke="#65E4D8" stroke-opacity=".3"/>
   </g>
 </svg>
