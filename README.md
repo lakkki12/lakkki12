@@ -50,6 +50,8 @@ I enjoy building software, testing ideas, and understanding not just **how** som
 
 
 
+[![CUDA Huffman project card](assets/project-huffman-card.svg)](https://github.com/lakkki12/huffman-cpu-vs-gpu)
+
 #### [⚡ CUDA Huffman Compression](https://github.com/lakkki12/huffman-cpu-vs-gpu)
 
 **Systems programming · Parallel computing**
@@ -70,6 +72,8 @@ Implemented CPU and CUDA pipelines for canonical Huffman compression/decompressi
 
 
 
+[![LexAgent project card](assets/project-lexagent-card.svg)](https://github.com/lakkki12/MultiAgent-Debate-Framework-for-Hallucination-Reduction-in-Legal-Al)
+
 #### [⚖️ LexAgent](https://github.com/lakkki12/MultiAgent-Debate-Framework-for-Hallucination-Reduction-in-Legal-Al)
 
 **AI engineering · Research-oriented evaluation**
@@ -89,6 +93,8 @@ Built a legal AI framework using hybrid case-law retrieval, structured multi-age
 
 
 
+
+[![Stock Trading Simulator project card](assets/project-stock-card.svg)](https://github.com/lakkki12/STOCK_TRADER)
 
 #### [📈 Stock Trading Simulator](https://github.com/lakkki12/STOCK_TRADER)
 
@@ -113,6 +119,8 @@ Developed a React proof-of-concept for market charts, simulated orders, portfoli
 </div>
 
 ### AI-generated software experiments
+
+![BeatPulse AI-generated project card](assets/project-beatpulse-card.svg)
 
 #### 🤖 BeatPulse — AI-Generated Workforce Management Platform
 
