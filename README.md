@@ -112,6 +112,22 @@ Developed a React proof-of-concept for market charts, simulated orders, portfoli
 <img src="https://skillicons.dev/icons?i=cpp,python,js,react,aws,git&theme=dark" alt="C++, Python, JavaScript, React, AWS and Git" />
 </div>
 
+### AI-generated software experiments
+
+#### 🤖 BeatPulse — AI-Generated Workforce Management Platform
+
+**BUILT ENTIRELY BY AI — AI handled the architecture, technology selection, code, and deployment. My contribution was the initial product idea.**
+
+**Why I created it:** I wanted to simplify employee attendance and field-sales operations for a family business. I was curious whether AI could turn an initial idea into a working, real-world product without me writing the code.
+
+**What it does:** A web dashboard and native Android application for employee attendance, GPS-based verification, shift management, route assignments, field visits, and administrative operations.
+
+**Current status:** Deployed and actively used in a real business. The source code, live application, and Android download are intentionally not linked here to protect business operations and employee data.
+
+`Android` `Java` `JavaScript` `Node.js` `Supabase` `Vercel`
+
+---
+
 ### Behind the projects · architecture at a glance
 
 These are **simplified conceptual diagrams** based on the repositories' documented pipelines—not claims of production deployment. Follow each project's code and documentation for implementation details.
