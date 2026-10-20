@@ -1,170 +1,139 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Lakshya Agarwal — Software Engineering, GPU Computing and Applied AI" width="100%" />
-
-<br />
+<img src="assets/profile-banner.svg" alt="Lakshya Agarwal — Software Development, Systems Engineering and AI Research" width="100%" />
 
 ### Hi, I'm Lakshya Agarwal 👋
 
-**Software Developer · Systems Engineering · Applied AI**
+**Software Development | C++ & CUDA | Full-Stack Engineering | Applied AI Research**
 
-I build software across **backend systems, GPU computing, full-stack applications, and AI research**.  
-My focus is on making systems that are understandable, testable, and useful beyond a demo.
+I build and evaluate software systems—from **GPU-accelerated algorithms** and **interactive applications** to **retrieval-grounded AI**. I enjoy understanding the architecture, trade-offs, and correctness of the systems I work on.
 
-[![GitHub](https://img.shields.io/badge/Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakkki12?tab=repositories)
-[![Research](https://img.shields.io/badge/Published_Research-0D9488?style=for-the-badge&logo=googlescholar&logoColor=white)](https://doi.org/10.1186/s40708-026-00302-4)
+[![Projects](https://img.shields.io/badge/Explore_Projects-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakkki12?tab=repositories)
+[![Publication](https://img.shields.io/badge/Research_Publication-0F766E?style=for-the-badge&logo=googlescholar&logoColor=white)](https://doi.org/10.1186/s40708-026-00302-4)
 
 </div>
 
 ---
 
-### What I'm working with
+### Engineering at a glance
+
+- **Software development:** C++, Python, JavaScript, React, REST APIs, and Git
+- **Systems and performance:** CUDA, parallel algorithms, memory movement, and benchmarking
+- **AI/ML:** RAG, hybrid retrieval, LangGraph, LLM workflows, and model evaluation
+- **Research mindset:** reproducible experiments, ablation studies, explainability, and clear technical reporting
+
+### Featured projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**Engineering**
-
-- Backend development and REST APIs
-- C++ / CUDA and parallel computing
-- React-based applications
-- Cloud services and data workflows
-
-</td>
-<td width="50%" valign="top">
-
-**AI & research**
-
-- Retrieval-augmented generation (RAG)
-- Multi-agent LLM workflows
-- Deep learning and explainability
-- Evaluation, benchmarking, and reproducibility
-
-</td>
-</tr>
-</table>
-
-### Selected projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [⚖️ LexAgent](https://github.com/lakkki12/MultiAgent-Debate-Framework-for-Hallucination-Reduction-in-Legal-Al)
-
-**Grounded legal AI through multi-agent debate**
-
-A legal-question answering pipeline combining hybrid case-law retrieval, agent debate, and citation-support verification.
-
-`Python` `LangGraph` `RAG` `LLMs`
-
-[View project →](https://github.com/lakkki12/MultiAgent-Debate-Framework-for-Hallucination-Reduction-in-Legal-Al)
-
-</td>
 <td width="50%" valign="top">
 
 #### [⚡ CUDA Huffman Compression](https://github.com/lakkki12/huffman-cpu-vs-gpu)
 
-**Exploring CPU vs. GPU compression**
+**Systems programming · Parallel computing**
 
-Canonical Huffman compression and decompression implementations with a focus on parallel execution, data movement, correctness, and benchmarking.
+Implemented CPU and CUDA pipelines for canonical Huffman compression/decompression, including GPU frequency counting, block offsets, encoding, and decoding. Examines performance alongside end-to-end correctness.
+
+**Discussion points:** CPU/GPU division of work, memory transfers, compression format, and benchmarking methodology.
 
 `C++` `CUDA` `Algorithms`
 
-[View project →](https://github.com/lakkki12/huffman-cpu-vs-gpu)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [📈 Stock Trading Simulator](https://github.com/lakkki12/STOCK_TRADER)
-
-**An interactive trading workflow**
-
-A React-based simulator for viewing market charts, placing simulated trades, tracking portfolio outcomes, and exploring historical backtests.
-
-`React` `JavaScript` `REST APIs`
-
-[View project →](https://github.com/lakkki12/STOCK_TRADER)
+[Code and architecture →](https://github.com/lakkki12/huffman-cpu-vs-gpu)
 
 </td>
 <td width="50%" valign="top">
 
-#### [☁️ AWS Project](https://github.com/lakkki12/AWSProject)
+#### [⚖️ LexAgent](https://github.com/lakkki12/MultiAgent-Debate-Framework-for-Hallucination-Reduction-in-Legal-Al)
 
-**Cloud application development**
+**AI engineering · Research-oriented evaluation**
 
-A separate repository documenting hands-on application work with AWS services.
+Built a legal AI framework using hybrid case-law retrieval, structured multi-agent debate, and citation checks to study how answers can be better grounded in source material.
 
-`AWS` `Cloud`
+**Discussion points:** BM25 + dense retrieval, agent orchestration, citation verification, and ablation experiments.
 
-[View project →](https://github.com/lakkki12/AWSProject)
+`Python` `LangGraph` `RAG` `LLMs`
+
+[Code and experiments →](https://github.com/lakkki12/MultiAgent-Debate-Framework-for-Hallucination-Reduction-in-Legal-Al)
 
 </td>
 </tr>
 </table>
 
-### Tech stack
+<table>
+<tr>
+<td valign="top">
+
+#### [📈 Stock Trading Simulator](https://github.com/lakkki12/STOCK_TRADER)
+
+**Frontend engineering · API integration**
+
+Developed a React proof-of-concept for market charts, simulated orders, portfolio tracking, and historical backtesting using Alpha Vantage market data.
+
+**Discussion points:** component structure, API data handling, simulated trade logic, and backtesting assumptions.
+
+`React` `JavaScript` `REST APIs`
+
+[Explore application →](https://github.com/lakkki12/STOCK_TRADER)
+
+</td>
+</tr>
+</table>
+
+### Technical toolkit
 
 <div align="center">
 
-**Languages and systems**
+**Languages and computing**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
-**Frameworks, cloud and tools**
+**Frameworks, cloud, and development**
 
 ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-334155?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square&logo=swagger&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square&logo=swagger&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
-### Research and innovation
+### Research and publications
 
-<table>
-<tr>
-<td valign="top" width="55%">
+**[A deep hybrid CNN-BiLSTM-BiGRU architecture with explainability for mild cognitive impairment detection using EEG](https://doi.org/10.1186/s40708-026-00302-4)**
 
-**Published research**
+Aishik Tokdar, **Lakshya Agarwal**, Shataghnee Chatterjee, and Sukriti  
+*Brain Informatics* · Springer Nature · 2026
 
-*“A deep hybrid CNN-BiLSTM-BiGRU architecture with explainability for mild cognitive impairment detection using EEG”*
+Research on an explainable deep-learning architecture for EEG-based mild cognitive impairment detection.
 
-Co-author · *Brain Informatics* (Springer Nature), 2026
+[Read paper ↗](https://doi.org/10.1186/s40708-026-00302-4) · [PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/42108320/)
 
-[Read publication ↗](https://doi.org/10.1186/s40708-026-00302-4)
+<details>
+<summary><b>Innovation and published patent applications</b></summary>
 
-</td>
-<td valign="top" width="45%">
+<br/>
 
-**Published patent applications**
+- **System for Orchestrated Control of Physical Infrastructure** — Indian patent application `202641106171` ([technical overview](patents/physical-infrastructure-control.md))
+- **System and Method for Autonomous Aquatic Environmental Clean-Up and Waste Management** — Indian patent application `202541076812` ([technical overview](patents/aquatic-cleanup.md))
 
-- [Physical infrastructure control](patents/physical-infrastructure-control.md) — Indian application **202641106171**
-- [Autonomous aquatic cleanup](patents/aquatic-cleanup.md) — Indian application **202541076812**
+These are **published patent applications**, not granted patents. The linked overviews describe proposed architectures.
 
-<sub>Published applications; not granted patents.</sub>
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
 <div align="center">
 
-### Let's connect
+### Connect and collaborate
 
-I'm interested in **software engineering, applied AI, systems work, and research collaborations**.
+Open to conversations about **software engineering, backend/systems development, applied AI, and research**.
 
-[**Explore all my repositories →**](https://github.com/lakkki12?tab=repositories)
+[**Browse repositories →**](https://github.com/lakkki12?tab=repositories)
 
-<sub>Build thoughtfully. Measure honestly. Keep learning.</sub>
+<sub>Interested in how things work, how to measure them, and how to improve them.</sub>
 
 </div>
