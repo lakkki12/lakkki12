@@ -192,7 +192,7 @@ Both applications list **Vellore Institute of Technology, Chennai** as the appli
 
 ### Beyond the code ⚽ 🎮
 
-Football and badminton are my ways of staying active and taking a break from screens. When I want to escape into another world, I play games. I've finished **GTA V**, **all the Dishonored games**, **all the Shadow of the Tomb Raider / Tomb Raider series entries I've played**, and **Hogwarts Legacy**.
+Football and badminton are my ways of staying active and taking a break from screens. When I want to escape into another world, I play games. I've completed the **entire Dishonored series** and the **modern Tomb Raider trilogy** (including *Shadow of the Tomb Raider*), along with **Watch Dogs 2**, **GTA V**, and **Hogwarts Legacy**.
 
 Also, I don't drink coffee, tea, or energy drinks. Apparently, I missed that part of the developer onboarding process. Somehow, the code still runs.
 
