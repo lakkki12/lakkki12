@@ -34,4 +34,16 @@
     <circle cx="1148" cy="40" r="3" fill="#65E4D8" opacity=".7"/>
     <path d="M1134 40H1096M1148 54V83" stroke="#65E4D8" stroke-opacity=".3"/>
   </g>
+  <style>
+    @keyframes pulse { 0%,100% { opacity:.28; } 50% { opacity:.9; } }
+    @keyframes drift { 0%,100% { transform:translateY(0); } 50% { transform:translateY(-7px); } }
+    @media (prefers-reduced-motion: no-preference) {
+      #signal { animation:pulse 4s ease-in-out infinite; }
+      #orbit { animation:drift 6s ease-in-out infinite; }
+    }
+  </style>
+  <g id="orbit" fill="none" stroke="#54e3de" stroke-opacity=".55">
+    <circle cx="1016" cy="144" r="96" stroke-dasharray="4 12" stroke-width="2"/>
+  </g>
+  <g id="signal"><circle cx="1148" cy="40" r="6" fill="#65E4D8"/></g>
 </svg>
