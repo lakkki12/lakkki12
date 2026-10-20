@@ -73,6 +73,8 @@ Built a legal AI framework using hybrid case-law retrieval, structured multi-age
 
 Developed a React proof-of-concept for market charts, simulated orders, portfolio tracking, and historical backtesting using Alpha Vantage market data.
 
+**Why I built this:** I wanted to explore how stock trading works beyond just looking at price charts. I built this simulator to experiment with market data, candlestick patterns, and trading strategies without risking real money. It also gave me a practical way to work with REST APIs, React, and financial data while understanding how trading decisions affect simulated profits and losses.
+
 **Discussion points:** component structure, API data handling, simulated trade logic, and backtesting assumptions.
 
 `React` `JavaScript` `REST APIs`
