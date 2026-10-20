@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Lakshya Agarwal — software, systems, electronics and AI" width="100%" />
+<img src="assets/profile-banner.svg" alt="Lakshya Agarwal" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=54E3DE&center=true&vCenter=true&width=850&lines=Software+%E2%86%94+Electronics+%E2%86%94+Physical+Systems;C%2B%2B+%7C+CUDA+%7C+Full-Stack+%7C+Applied+AI;Curious+by+default.+Learning+every+day." alt="Animated engineering interests" />
 
 ### Hey, I'm Lakshya 👋
 
@@ -18,7 +20,7 @@
 
 ### A little about me
 
-I'm pursuing a **B.Tech in Electronics and Computer Engineering at VIT Chennai**, with a **9.20 CGPA**.
+I'm a **final-year B.Tech student in Electronics and Computer Engineering at VIT Chennai**, with a **9.20 CGPA**.
 
 Why this degree? There's a Hindi word, *chull*, that probably explains it better than a formal answer: I've always wanted to know how things work. How does code instruct an electronic circuit? How does that circuit control a motor or a mechanical system? How do all those layers come together to make a machine do something useful?
 
@@ -32,6 +34,11 @@ I enjoy building software, testing ideas, and understanding not just **how** som
 - **Software engineering:** Python, JavaScript, React, REST APIs, and backend design
 - **AI & research:** RAG, multi-agent systems, retrieval, evaluation, and explainability
 - **Cloud & deployment:** AWS and taking applications beyond the local machine
+
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080f1e,100:0f766e&height=3&section=header" width="100%" alt="" />
+</div>
 
 ### Featured projects
 
@@ -96,6 +103,10 @@ Developed a React proof-of-concept for market charts, simulated orders, portfoli
 </tr>
 </table>
 
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,aws,git&theme=dark" alt="C++, Python, JavaScript, React, AWS and Git" />
+</div>
+
 ### Technical toolkit
 
 <div align="center">
@@ -125,6 +136,11 @@ I use AI as a development tool, and I'm open about it.
 Sometimes it's a brainstorming partner; sometimes it handles boilerplate or repetitive implementation work. When I'm busy, I may also describe the architecture and requirements in detail and let AI generate a larger portion of the implementation. I then review what it produced, question its decisions, and fix or improve what needs attention.
 
 I don't think engineering is measured by how many lines you type yourself. Understanding the system, being able to explain the trade-offs, and checking that the code actually works matter much more. AI can move things along quickly, but it can also be confidently wrong—so generated code still needs judgment and verification.
+
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080f1e,100:0f766e&height=3&section=header" width="100%" alt="" />
+</div>
 
 ### Research and publications
 
