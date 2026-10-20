@@ -30,7 +30,7 @@ I enjoy building software, testing ideas, and understanding not just **how** som
 
 <div align="center">
 
-<img src="assets/terminal-about.svg" alt="Terminal card: Lakshya Agarwal, final-year ECE student, interested in systems, CUDA, full-stack and applied AI" width="94%" />
+<img src="assets/terminal-about.svg" alt="Terminal card: Lakshya Agarwal, final-year ECM student, interested in systems, CUDA, full-stack and applied AI" width="94%" />
 
 </div>
 
