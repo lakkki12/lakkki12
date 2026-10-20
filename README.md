@@ -26,7 +26,6 @@ I build software systems and explore how AI can be made more reliable, explainab
 | Project | What it explores | Technologies / focus |
 | --- | --- | --- |
 | **[LexAgent](https://github.com/lakkki12/MultiAgent-Debate-Framework-for-Hallucination-Reduction-in-Legal-Al)** | A multi-agent legal AI framework with hybrid case-law retrieval, structured debate and citation checks. | Python, retrieval, LLMs, LangGraph |
-| **[RazorAI](https://github.com/lakkki12/RazorAI)** | Financial reconciliation architecture combining deterministic matching with constrained AI-assisted extraction. | Python, FastAPI, SQLite, Docker |
 | **[CUDA Huffman Compression](https://github.com/lakkki12/huffman-cpu-vs-gpu)** | CPU/GPU implementations of canonical Huffman coding and performance benchmarking. | C++, CUDA, parallel computing |
 | **[Stock Trading Simulator](https://github.com/lakkki12/STOCK_TRADER)** | A React-based trading simulator with charting, simulated trades and historical backtesting. | React, JavaScript, Alpha Vantage API |
 
