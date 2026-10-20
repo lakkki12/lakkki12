@@ -34,6 +34,8 @@ I build and evaluate software systems—from **GPU-accelerated algorithms** and 
 
 Implemented CPU and CUDA pipelines for canonical Huffman compression/decompression, including GPU frequency counting, block offsets, encoding, and decoding. Examines performance alongside end-to-end correctness.
 
+**Why I built it:** My Computer Architecture course sparked a curiosity about how GPUs actually work. Discovering CUDA led me to use Huffman coding as a hands-on way to explore parallel execution.
+
 **Discussion points:** CPU/GPU division of work, memory transfers, compression format, and benchmarking methodology.
 
 `C++` `CUDA` `Algorithms`
@@ -48,6 +50,8 @@ Implemented CPU and CUDA pipelines for canonical Huffman compression/decompressi
 **AI engineering · Research-oriented evaluation**
 
 Built a legal AI framework using hybrid case-law retrieval, structured multi-agent debate, and citation checks to study how answers can be better grounded in source material.
+
+**Why we built it:** Reading about fabricated case citations submitted in a US courtroom made us wonder whether a multi-agent approach could improve legal AI grounding—even if verification added latency.
 
 **Discussion points:** BM25 + dense retrieval, agent orchestration, citation verification, and ablation experiments.
 
