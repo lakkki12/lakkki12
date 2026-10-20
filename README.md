@@ -30,7 +30,7 @@ I enjoy building software, testing ideas, and understanding not just **how** som
 
 <div align="center">
 
-<img src="assets/terminal-about-ecm.svg" alt="Terminal card: Lakshya Agarwal, final-year ECM student, interested in systems, CUDA, full-stack and applied AI" width="94%" />
+<img src="assets/terminal-about-ecm.svg" alt="Terminal card: Lakshya Agarwal, final-year ECM student, interested in systems, CUDA, full-stack and applied AI" width="100%" />
 
 </div>
 
@@ -42,15 +42,13 @@ I enjoy building software, testing ideas, and understanding not just **how** som
 - **Cloud & deployment:** AWS and taking applications beyond the local machine
 
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080f1e,100:0f766e&height=3&section=header" width="100%" alt="" />
-</div>
+---
 
 ### Featured projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+*Three things I built to understand problems beyond the tutorial stage.*
+
+
 
 #### [⚡ CUDA Huffman Compression](https://github.com/lakkki12/huffman-cpu-vs-gpu)
 
@@ -66,8 +64,11 @@ Implemented CPU and CUDA pipelines for canonical Huffman compression/decompressi
 
 [Code and architecture →](https://github.com/lakkki12/huffman-cpu-vs-gpu)
 
-</td>
-<td width="50%" valign="top">
+
+
+---
+
+
 
 #### [⚖️ LexAgent](https://github.com/lakkki12/MultiAgent-Debate-Framework-for-Hallucination-Reduction-in-Legal-Al)
 
@@ -83,13 +84,11 @@ Built a legal AI framework using hybrid case-law retrieval, structured multi-age
 
 [Code and experiments →](https://github.com/lakkki12/MultiAgent-Debate-Framework-for-Hallucination-Reduction-in-Legal-Al)
 
-</td>
-</tr>
-</table>
 
-<table>
-<tr>
-<td valign="top">
+
+
+
+
 
 #### [📈 Stock Trading Simulator](https://github.com/lakkki12/STOCK_TRADER)
 
@@ -105,9 +104,9 @@ Developed a React proof-of-concept for market charts, simulated orders, portfoli
 
 [Explore application →](https://github.com/lakkki12/STOCK_TRADER)
 
-</td>
-</tr>
-</table>
+
+
+
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,js,react,aws,git&theme=dark" alt="C++, Python, JavaScript, React, AWS and Git" />
@@ -160,32 +159,36 @@ Sometimes it's a brainstorming partner; sometimes it handles boilerplate or repe
 I don't think engineering is measured by how many lines you type yourself. Understanding the system, being able to explain the trade-offs, and checking that the code actually works matter much more. AI can move things along quickly, but it can also be confidently wrong—so generated code still needs judgment and verification.
 
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080f1e,100:0f766e&height=3&section=header" width="100%" alt="" />
-</div>
+---
 
-### Research and publications
+### Research & innovation
 
-**[A deep hybrid CNN-BiLSTM-BiGRU architecture with explainability for mild cognitive impairment detection using EEG](https://doi.org/10.1186/s40708-026-00302-4)**
+**Published research**
 
-Aishik Tokdar, **Lakshya Agarwal**, Shataghnee Chatterjee, and Sukriti  
-*Brain Informatics* · Springer Nature · 2026
+[![EEG research publication card](assets/research-eeg-card.svg)](https://doi.org/10.1186/s40708-026-00302-4)
 
-Research on an explainable deep-learning architecture for EEG-based mild cognitive impairment detection.
+**A deep hybrid CNN-BiLSTM-BiGRU architecture with explainability for mild cognitive impairment detection using EEG**  
+Aishik Tokdar, **Lakshya Agarwal**, Shataghnee Chatterjee, and Sukriti · *Brain Informatics*, Springer Nature (2026)
 
-[Read paper ↗](https://doi.org/10.1186/s40708-026-00302-4) · [PubMed ↗](https://pubmed.ncbi.nlm.nih.gov/42108320/)
+[Read the paper](https://doi.org/10.1186/s40708-026-00302-4) · [PubMed record](https://pubmed.ncbi.nlm.nih.gov/42108320/)
 
-### Published Indian patent applications
+**Published Indian patent applications**
 
-Both applications list **Vellore Institute of Technology, Chennai** as the applicant. These are **published applications, not granted patents**.
+The following are **published applications, not granted patents**. Both list **Vellore Institute of Technology, Chennai** as the applicant. Statuses reflect the application details supplied and may change.
 
-| Innovation | Application number | Filed | Published | Current status |
-| --- | --- | --- | --- | --- |
-| **[System for Orchestrated Control of Physical Infrastructure](patents/physical-infrastructure-control.md)** | `202641106171` | 03 Sep 2026 | 11 Sep 2026 | Under Examination |
-| **[System and Method for Autonomous Aquatic Environmental Clean-Up and Waste Management](patents/aquatic-cleanup.md)** | `202541076812` | 12 Aug 2025 | 05 Sep 2025 | Awaiting Examination |
+[![Physical infrastructure patent application card](assets/patent-infrastructure-card.svg)](patents/physical-infrastructure-control.md)
 
-*Both are ordinary applications. Examination requests were filed on 11 Sep 2026 and 12 Aug 2025, respectively. Statuses reflect the supplied application records and may change.*
+**System for Orchestrated Control of Physical Infrastructure**  
+Application `202641106171` · Ordinary application · Filed **03 Sep 2026** · Published **11 Sep 2026** · **Under Examination**  
+[Read the technical overview](patents/physical-infrastructure-control.md)
 
+[![Aquatic clean-up patent application card](assets/patent-aquatic-card.svg)](patents/aquatic-cleanup.md)
+
+**System and Method for Autonomous Aquatic Environmental Clean-Up and Waste Management**  
+Application `202541076812` · Ordinary application · Filed **12 Aug 2025** · Published **05 Sep 2025** · **Awaiting Examination**  
+[Read the technical overview](patents/aquatic-cleanup.md)
+
+*Examination requests: 11 Sep 2026 (infrastructure) and 12 Aug 2025 (aquatic). The linked overviews describe disclosed concepts, not verified deployed systems.*
 
 
 ---
