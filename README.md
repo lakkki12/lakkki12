@@ -22,7 +22,7 @@
 
 I'm a **final-year B.Tech student in Electronics and Computer Engineering at VIT Chennai**, with a **9.20 CGPA**.
 
-Why this degree? There's a Hindi word, *chull*, that probably explains it better than a formal answer: I've always wanted to know how things work. How does code instruct an electronic circuit? How does that circuit control a motor or a mechanical system? How do all those layers come together to make a machine do something useful?
+Why this degree? There's a Hindi word, *chull*, that probably explains it better than a formal answer: I've always wanted to know how things work. How does code actually become electrical activity inside a processor? Who decided what an `ADD` instruction means, and how does the hardware know what to do when it encounters one? How do transistors and logic gates make arithmetic possible—and how can those same electronic systems eventually control motors and mechanical machines? How do all these layers come together to make something useful?
 
 I don't have all the answers yet. Every time I learn something, I seem to find another question worth asking. That's part of the fun. I don't think learning ends with a degree.
 
