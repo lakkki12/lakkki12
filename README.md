@@ -28,6 +28,12 @@ I don't have all the answers yet. Every time I learn something, I seem to find a
 
 I enjoy building software, testing ideas, and understanding not just **how** something works, but **why** it works that way.
 
+<div align="center">
+
+<img src="assets/terminal-about.svg" alt="Terminal card: Lakshya Agarwal, final-year ECE student, interested in systems, CUDA, full-stack and applied AI" width="94%" />
+
+</div>
+
 ### What I'm exploring
 
 - **Systems & performance:** C++, CUDA, parallel algorithms, memory movement, and benchmarking
@@ -106,6 +112,22 @@ Developed a React proof-of-concept for market charts, simulated orders, portfoli
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,js,react,aws,git&theme=dark" alt="C++, Python, JavaScript, React, AWS and Git" />
 </div>
+
+### Behind the projects · architecture at a glance
+
+These are **simplified conceptual diagrams** based on the repositories' documented pipelines—not claims of production deployment. Follow each project's code and documentation for implementation details.
+
+**CUDA Huffman — CPU/GPU compression and round-trip decoding**
+
+![CUDA Huffman compression pipeline](assets/architecture-huffman.svg)
+
+**LexAgent — case-law retrieval, debate, and citation grounding**
+
+![LexAgent conceptual architecture](assets/architecture-lexagent.svg)
+
+**Stock Trading Simulator — market data to simulated portfolio results**
+
+![Stock simulator application flow](assets/architecture-stock.svg)
 
 ### Technical toolkit
 
