@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Lakshya Agarwal" width="100%" />
+<img src="assets/profile-banner.svg" alt="Lakshya Agarwal" width="760" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=54E3DE&center=true&vCenter=true&width=850&lines=Software+%E2%86%94+Electronics+%E2%86%94+Physical+Systems;C%2B%2B+%7C+CUDA+%7C+Full-Stack+%7C+Applied+AI;Curious+by+default.+Learning+every+day." alt="Animated engineering interests" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=54E3DE&center=true&vCenter=true&width=850&lines=Software+%E2%86%94+Electronics+%E2%86%94+Physical+Systems;C%2B%2B+%7C+CUDA+%7C+Full-Stack+%7C+Applied+AI;Curious+by+default.+Learning+every+day." alt="Animated engineering interests" width="680" />
 
 ### Hey, I'm Lakshya 👋
 
@@ -10,15 +10,15 @@
 
 *Curious about how code, electronics, and physical machines come together.*
 
-[![Projects](https://img.shields.io/badge/Explore_Projects-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakkki12?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshyaagarwal12/)
-[![Email](https://img.shields.io/badge/Say_Hello-0F766E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshyaagarwalbly16@gmail.com)
+[![Projects](https://img.shields.io/badge/Explore_Projects-111827?style=flat-square&logo=github&logoColor=white)](https://github.com/lakkki12?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshyaagarwal12/)
+[![Email](https://img.shields.io/badge/Say_Hello-0F766E?style=flat-square&logo=gmail&logoColor=white)](mailto:lakshyaagarwalbly16@gmail.com)
 
 </div>
 
 ---
 
-### A little about me
+## A little about me
 
 I'm a **final-year B.Tech student in Electronics and Computer Engineering at VIT Chennai**, with a **9.20 CGPA**.
 
@@ -28,9 +28,9 @@ I don't have all the answers yet. Every time I learn something, I seem to find a
 
 I enjoy building software, testing ideas, and understanding not just **how** something works, but **why** it works that way.
 
-<div align="center">
+<div align="left">
 
-<img src="assets/terminal-about-ecm.svg" alt="Terminal card: Lakshya Agarwal, final-year ECM student, interested in systems, CUDA, full-stack and applied AI" width="100%" />
+<img src="assets/terminal-about-ecm.svg" alt="Terminal card: Lakshya Agarwal, final-year ECM student, interested in systems, CUDA, full-stack and applied AI" width="640" />
 
 </div>
 
@@ -41,18 +41,15 @@ I enjoy building software, testing ideas, and understanding not just **how** som
 - **AI & research:** RAG, multi-agent systems, retrieval, evaluation, and explainability
 - **Cloud & deployment:** AWS and taking applications beyond the local machine
 
-
 ---
 
-### Featured projects
+## Featured projects
 
 *Three things I built to understand problems beyond the tutorial stage.*
 
+[<img src="assets/project-huffman-card.svg" alt="CUDA Huffman project card" width="640" />](https://github.com/lakkki12/huffman-cpu-vs-gpu)
 
-
-[![CUDA Huffman project card](assets/project-huffman-card.svg)](https://github.com/lakkki12/huffman-cpu-vs-gpu)
-
-#### [⚡ CUDA Huffman Compression](https://github.com/lakkki12/huffman-cpu-vs-gpu)
+### [⚡ CUDA Huffman Compression](https://github.com/lakkki12/huffman-cpu-vs-gpu)
 
 **Systems programming · Parallel computing**
 
@@ -66,15 +63,11 @@ Implemented CPU and CUDA pipelines for canonical Huffman compression/decompressi
 
 [Code and architecture →](https://github.com/lakkki12/huffman-cpu-vs-gpu)
 
-
-
 ---
 
+[<img src="assets/project-lexagent-card.svg" alt="LexAgent project card" width="640" />](https://github.com/lakkki12/MultiAgent-Debate-Framework-for-Hallucination-Reduction-in-Legal-Al)
 
-
-[![LexAgent project card](assets/project-lexagent-card.svg)](https://github.com/lakkki12/MultiAgent-Debate-Framework-for-Hallucination-Reduction-in-Legal-Al)
-
-#### [⚖️ LexAgent](https://github.com/lakkki12/MultiAgent-Debate-Framework-for-Hallucination-Reduction-in-Legal-Al)
+### [⚖️ LexAgent](https://github.com/lakkki12/MultiAgent-Debate-Framework-for-Hallucination-Reduction-in-Legal-Al)
 
 **AI engineering · Research-oriented evaluation**
 
@@ -88,15 +81,11 @@ Built a legal AI framework using hybrid case-law retrieval, structured multi-age
 
 [Code and experiments →](https://github.com/lakkki12/MultiAgent-Debate-Framework-for-Hallucination-Reduction-in-Legal-Al)
 
+---
 
+[<img src="assets/project-stock-card.svg" alt="Stock Trading Simulator project card" width="640" />](https://github.com/lakkki12/STOCK_TRADER)
 
-
-
-
-
-[![Stock Trading Simulator project card](assets/project-stock-card.svg)](https://github.com/lakkki12/STOCK_TRADER)
-
-#### [📈 Stock Trading Simulator](https://github.com/lakkki12/STOCK_TRADER)
+### [📈 Stock Trading Simulator](https://github.com/lakkki12/STOCK_TRADER)
 
 **Frontend engineering · API integration**
 
@@ -110,19 +99,15 @@ Developed a React proof-of-concept for market charts, simulated orders, portfoli
 
 [Explore application →](https://github.com/lakkki12/STOCK_TRADER)
 
-
-
-
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,react,aws,git&theme=dark" alt="C++, Python, JavaScript, React, AWS and Git" />
+<div align="left">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,aws,git&theme=dark" alt="C++, Python, JavaScript, React, AWS and Git" width="240" />
 </div>
 
-### AI-generated software experiments
+## AI-generated software experiments
 
-![BeatPulse AI-generated project card](assets/project-beatpulse-card.svg)
+<img src="assets/project-beatpulse-card.svg" alt="BeatPulse AI-generated project card" width="640" />
 
-#### 🤖 BeatPulse — AI-Generated Workforce Management Platform
+### 🤖 BeatPulse — AI-Generated Workforce Management Platform
 
 **BUILT ENTIRELY BY AI — AI handled the architecture, technology selection, code, and deployment. My contribution was the initial product idea.**
 
@@ -136,25 +121,25 @@ Developed a React proof-of-concept for market charts, simulated orders, portfoli
 
 ---
 
-### Behind the projects · architecture at a glance
+## Behind the projects · architecture at a glance
 
 These are **simplified conceptual diagrams** based on the repositories' documented pipelines—not claims of production deployment. Follow each project's code and documentation for implementation details.
 
 **CUDA Huffman — CPU/GPU compression and round-trip decoding**
 
-![CUDA Huffman compression pipeline](assets/architecture-huffman.svg)
+<img src="assets/architecture-huffman.svg" alt="CUDA Huffman compression pipeline" width="760" />
 
 **LexAgent — case-law retrieval, debate, and citation grounding**
 
-![LexAgent conceptual architecture](assets/architecture-lexagent.svg)
+<img src="assets/architecture-lexagent.svg" alt="LexAgent conceptual architecture" width="760" />
 
 **Stock Trading Simulator — market data to simulated portfolio results**
 
-![Stock simulator application flow](assets/architecture-stock.svg)
+<img src="assets/architecture-stock.svg" alt="Stock simulator application flow" width="760" />
 
-### Technical toolkit
+## Technical toolkit
 
-<div align="center">
+<div align="left">
 
 **Languages and computing**
 
@@ -174,7 +159,7 @@ These are **simplified conceptual diagrams** based on the repositories' document
 
 </div>
 
-### How I work with AI
+## How I work with AI
 
 I use AI as a development tool, and I'm open about it.
 
@@ -182,14 +167,13 @@ Sometimes it's a brainstorming partner; sometimes it handles boilerplate or repe
 
 I don't think engineering is measured by how many lines you type yourself. Understanding the system, being able to explain the trade-offs, and checking that the code actually works matter much more. AI can move things along quickly, but it can also be confidently wrong—so generated code still needs judgment and verification.
 
-
 ---
 
-### Research & innovation
+## Research & innovation
 
 **Published research**
 
-[![EEG research publication card](assets/research-eeg-card.svg)](https://doi.org/10.1186/s40708-026-00302-4)
+[<img src="assets/research-eeg-card.svg" alt="EEG research publication card" width="640" />](https://doi.org/10.1186/s40708-026-00302-4)
 
 **A deep hybrid CNN-BiLSTM-BiGRU architecture with explainability for mild cognitive impairment detection using EEG**  
 Aishik Tokdar, **Lakshya Agarwal**, Shataghnee Chatterjee, and Sukriti · *Brain Informatics*, Springer Nature (2026)
@@ -200,23 +184,21 @@ Aishik Tokdar, **Lakshya Agarwal**, Shataghnee Chatterjee, and Sukriti · *Brain
 
 The following are **published applications, not granted patents**. Both list **Vellore Institute of Technology, Chennai** as the applicant. Statuses reflect the application details supplied and may change.
 
-[![Physical infrastructure patent application card](assets/patent-infrastructure-card.svg)](patents/physical-infrastructure-control.md)
+[<img src="assets/patent-infrastructure-card.svg" alt="Physical infrastructure patent application card" width="640" />](patents/physical-infrastructure-control.md)
 
 **System for Orchestrated Control of Physical Infrastructure**  
 Application `202641106171` · Ordinary application · Filed **03 Sep 2026** · Published **11 Sep 2026** · **Under Examination**  
 [Read the technical overview](patents/physical-infrastructure-control.md)
 
-[![Aquatic clean-up patent application card](assets/patent-aquatic-card.svg)](patents/aquatic-cleanup.md)
+[<img src="assets/patent-aquatic-card.svg" alt="Aquatic clean-up patent application card" width="640" />](patents/aquatic-cleanup.md)
 
 **System and Method for Autonomous Aquatic Environmental Clean-Up and Waste Management**  
 Application `202541076812` · Ordinary application · Filed **12 Aug 2025** · Published **05 Sep 2025** · **Awaiting Examination**  
 [Read the technical overview](patents/aquatic-cleanup.md)
 
-
-
 ---
 
-### Beyond the code ⚽ 🎮
+## Beyond the code ⚽ 🎮
 
 Football and badminton are my ways of staying active and taking a break from screens. When I want to escape into another world, I play games. I've finished the **complete Dishonored storyline**—*Dishonored*, *The Knife of Dunwall*, *The Brigmore Witches*, *Dishonored 2*, and *Death of the Outsider*—as well as the **modern Tomb Raider trilogy** (*Tomb Raider* (2013), *Rise of the Tomb Raider*, and *Shadow of the Tomb Raider*). I've also completed **Watch Dogs 2**, **GTA V**, and **Hogwarts Legacy**.
 
@@ -224,9 +206,9 @@ Also, I don't drink coffee, tea, or energy drinks. Apparently, I missed that par
 
 ---
 
-<div align="center">
+<div align="left">
 
-### Let's connect
+## Let's connect
 
 Happy to talk about software engineering, GPU computing, AI, electronics, or an interesting technical problem.
 
