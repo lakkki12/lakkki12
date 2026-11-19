@@ -103,27 +103,33 @@ Developed a React proof-of-concept for market charts, simulated orders, portfoli
 <img src="https://skillicons.dev/icons?i=cpp,python,js,react,aws,git&theme=dark" alt="C++, Python, JavaScript, React, AWS and Git" width="240" />
 </div>
 
-## AI-generated software experiments
+## AI-assisted software development
 
-<img src="assets/project-beatpulse-card.svg" alt="BeatPulse AI-generated project card" width="640" />
+[<img src="assets/project-beatpulse-card.svg" alt="BeatPulse AI-assisted workforce management project card" width="640" />](https://github.com/lakkki12/narayan-traders-tracker)
 
-### 🤖 BeatPulse — AI-Generated Workforce Management Platform
+### [🤖 BeatPulse — Workforce Management Platform](https://github.com/lakkki12/narayan-traders-tracker)
 
-**BUILT ENTIRELY BY AI — AI handled the architecture, technology selection, code, and deployment. My contribution was the initial product idea.**
+**Product design · System architecture · Full-stack development · AI-assisted engineering**
 
-**Why I created it:** I wanted to simplify employee attendance and field-sales operations for a family business. I was curious whether AI could turn an initial idea into a working, real-world product without me writing the code.
+**How I built it:** I conceived the product, designed the architecture, defined requirements, and made the key technical decisions. I used **OpenAI Codex** to generate implementation code and accelerate development so I could ship faster.
 
-**What it does:** A web dashboard and native Android application for employee attendance, GPS-based verification, shift management, route assignments, field visits, and administrative operations.
+**Why I built it:** I wanted to simplify attendance, payroll, and field-sales operations for a family business while exploring AI-assisted software delivery.
 
-**Current status:** Deployed and actively used in a real business. The source code, live application, and Android download are intentionally not linked here to protect business operations and employee data.
+**What it does:** A responsive web dashboard and native Android application for employee attendance, payroll, GPS-based verification, shift management, field visits, role-based access, real-time updates, and supported offline workflows.
 
-`Android` `Java` `JavaScript` `Node.js` `Supabase` `Vercel`
+**Architecture:** Java 17 Android app and vanilla JavaScript website sharing a Node.js serverless API on Vercel, backed by Supabase PostgreSQL, Auth, private Storage, and Realtime.
+
+**Current status:** Deployed and actively used in a real business.
+
+`Android` `Java 17` `JavaScript` `Node.js` `PostgreSQL` `Supabase` `Vercel` `OpenAI Codex`
+
+[Explore project and architecture →](https://github.com/lakkki12/narayan-traders-tracker)
 
 ---
 
 ## Behind the projects · architecture at a glance
 
-These are **simplified conceptual diagrams** based on the repositories' documented pipelines—not claims of production deployment. Follow each project's code and documentation for implementation details.
+These diagrams summarize the projects' documented architectures. The research and proof-of-concept diagrams are conceptual; BeatPulse represents a deployed application. Follow each project's code and documentation for implementation details.
 
 **CUDA Huffman — CPU/GPU compression and round-trip decoding**
 
@@ -136,6 +142,10 @@ These are **simplified conceptual diagrams** based on the repositories' document
 **Stock Trading Simulator — market data to simulated portfolio results**
 
 <img src="assets/architecture-stock.svg" alt="Stock simulator application flow" width="760" />
+
+**[BeatPulse — web, Android, serverless API, and PostgreSQL](https://github.com/lakkki12/narayan-traders-tracker)**
+
+[<img src="assets/architecture-beatpulse.svg" alt="BeatPulse deployed architecture showing web and Android clients, Vercel Node.js API, Supabase services and PostgreSQL" width="760" />](https://github.com/lakkki12/narayan-traders-tracker)
 
 ## Technical toolkit
 
