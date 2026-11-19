@@ -105,9 +105,9 @@ Developed a React proof-of-concept for market charts, simulated orders, portfoli
 
 ## AI-assisted software development
 
-[<img src="assets/project-beatpulse-card.svg" alt="BeatPulse AI-assisted workforce management project card" width="640" />](https://github.com/lakkki12/narayan-traders-tracker)
+[<img src="assets/project-beatpulse-card.svg" alt="BeatPulse AI-assisted workforce management project card" width="640" />](projects/beatpulse.md)
 
-### [🤖 BeatPulse — Workforce Management Platform](https://github.com/lakkki12/narayan-traders-tracker)
+### [🤖 BeatPulse — Workforce Management Platform](projects/beatpulse.md)
 
 **Product design · System architecture · Full-stack development · AI-assisted engineering**
 
@@ -123,7 +123,7 @@ Developed a React proof-of-concept for market charts, simulated orders, portfoli
 
 `Android` `Java 17` `JavaScript` `Node.js` `PostgreSQL` `Supabase` `Vercel` `OpenAI Codex`
 
-[Explore project and architecture →](https://github.com/lakkki12/narayan-traders-tracker)
+[Explore project and architecture →](projects/beatpulse.md)
 
 ---
 
@@ -143,9 +143,9 @@ These diagrams summarize the projects' documented architectures. The research an
 
 <img src="assets/architecture-stock.svg" alt="Stock simulator application flow" width="760" />
 
-**[BeatPulse — web, Android, serverless API, and PostgreSQL](https://github.com/lakkki12/narayan-traders-tracker)**
+**[BeatPulse — web, Android, serverless API, and PostgreSQL](projects/beatpulse.md)**
 
-[<img src="assets/architecture-beatpulse.svg" alt="BeatPulse deployed architecture showing web and Android clients, Vercel Node.js API, Supabase services and PostgreSQL" width="760" />](https://github.com/lakkki12/narayan-traders-tracker)
+[<img src="assets/architecture-beatpulse.svg" alt="BeatPulse deployed architecture showing web and Android clients, Vercel Node.js API, Supabase services and PostgreSQL" width="760" />](projects/beatpulse.md)
 
 ## Technical toolkit
 
